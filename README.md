@@ -14,10 +14,7 @@ This repository contains all the lab tasks and assignments for the OOP Course. E
 ### 📊 Lab Task Tracker
 | Week | Topic | Status |
 | :--- | :--- | :--- |
-| Lab 01 | Classes and Objects | ✅ Completed |
 | Lab 02 | Constructors & Destructors | ✅ Completed |
-| Lab 03 | Shallow Copy & Deep Copy | ⏳ Pending 
-
 ---
 
 ## 🛠️ Tools Used
