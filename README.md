@@ -1,4 +1,4 @@
-# Object-Oriented Programming (OOP) Lab Tasks
+# Object-Oriented Programming (OOP) Lab 02 Tasks
 
 ### 👤 Student Information
 * **Name:** Moazamuddin
