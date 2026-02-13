@@ -9,7 +9,7 @@
 ---
 
 ## 📂 Repository Overview
-This repository contains all the lab tasks and assignments for the OOP Course. Each folder corresponds to a specific lab week.
+This repository contains all the lab 02 tasks and assignments for the OOP Course.
 
 ### 📊 Lab Task Tracker
 | Week | Topic | Status |
